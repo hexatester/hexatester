@@ -8,4 +8,4 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Be yourself and respect others
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=hexatester)
+![hexatester's Github stats](https://github-readme-stats.vercel.app/api?username=hexatester&show_icons=true&theme=dark)
