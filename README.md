@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Open Source Stuff](https://github.com/pentatester/), [UnivTerbuka](https://github.com/UnivTerbuka/), and [Dapodix](https://github.com/dapodix/).
-- 🌱 I’m currently learning AI Chat Bot ([Rasa](https://rasa.com/)), [Angular](https://angular.io/), and [Django](https://www.djangoproject.com/).
+- 🌱 I’m currently learning Tkinter.
 - 👯 I’m looking to collaborate on Education and Automation.
 - 📫 How to reach me: [Telegram](https://t.me/hexatester)
 - 😄 Pronouns: He / His
