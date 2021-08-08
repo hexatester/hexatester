@@ -7,4 +7,5 @@
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: 0! == 1
 
-[![hexatester's Github stats](https://github-readme-stats.vercel.app/api?username=hexatester&show_icons=true&theme=dark)](https://github.com/hexatester/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hexatester&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
